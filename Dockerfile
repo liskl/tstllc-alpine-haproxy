@@ -1,4 +1,4 @@
-FROM tstllc-base:latest
+FROM registry.liskl.com/tstllc/alpine-base:latest
 
 ENV HAPROXY_MAJOR 1.7
 ENV HAPROXY_VERSION 1.7.2
