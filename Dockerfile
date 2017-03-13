@@ -1,5 +1,8 @@
 FROM registry.liskl.com/tstllc/alpine-base:latest
 
+# Dev-Ops Team
+MAINTAINER dl_team_devops@tstllc.net
+
 ENV HAPROXY_MAJOR 1.7
 ENV HAPROXY_VERSION 1.7.2
 ENV HAPROXY_MD5 7330b36f3764ebe409e9305803dc30e2
